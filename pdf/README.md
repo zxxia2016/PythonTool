@@ -1,3 +1,9 @@
+# 环境
+
+- python 3.8.5
+- PyPDF2 1.260
+- pdfplumber 0.5.28
+
 # PDF分割：splitPDF.py
 
 使用方法：在cmd中输入：
