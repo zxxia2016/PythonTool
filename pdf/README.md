@@ -3,6 +3,7 @@
 - python 3.8.5
 - PyPDF2 1.260
 - pdfplumber 0.5.28
+- pdf2image 1.15.1
 
 # PDF分割：splitPDF.py
 
@@ -27,6 +28,16 @@
 - --save_dirpath：合并后的 PDF 文件路径
 
 
+
+# PDF转化为图片
+
+使用方法：在cmd中输入：
+
+> python pdfToImage.py --pdf_path F:\pythonProject\data\GNN1.
+> pdf --pic_dirpath F:\pythonProject\result
+
+- --pdf_path：要转化为图片的pdf的绝对路径
+- --pic_dirpath：用于存放图片的文件夹路径
 
 # 参考
 
