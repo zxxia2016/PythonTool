@@ -1,2 +1,2 @@
-python roundit.py
+python3 roundit.py
 del .\photo\*.*
